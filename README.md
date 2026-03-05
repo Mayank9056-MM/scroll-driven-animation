@@ -9,7 +9,7 @@ This project recreates a scroll-driven hero section animation inspired by the re
 ## Live Demo
 
 ```
-
+  https://scroll-driven-animation-theta.vercel.app/
 ```
 
 ## GitHub Repository
@@ -88,8 +88,3 @@ The animation is divided into steps triggered by scroll input.
 
 Full Stack Developer (MERN Stack)
 
-## Author
-
-**Mayank Mahajan**
-
-Full Stack Developer (MERN Stack)
